@@ -3,7 +3,7 @@
     "max_distance": 100.0,
     "sounds": [
       {
-        "name": "sounds/railway/gate.ogg",
+        "name": "sounds/railway/gate",
         "stream": true,
         "volume": 1,
         "load_on_low_memory": true
