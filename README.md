@@ -1,0 +1,3 @@
+# EconomyResourcePack
+
+おうち鯖経済で使用するリソースパック

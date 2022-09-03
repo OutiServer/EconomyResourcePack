@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "train_ticket": {
+      "textures": "textures/items/train_ticket"
+    },
+    "train_ic_card_batasuco": {
+      "textures": "textures/items/train_ic_card_batasuco"
+    },
+    "train_ic_card_outiserver": {
+      "textures": "textures/items/train_ic_card_outiserver"
+    }
+  }
+}

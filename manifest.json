@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "おうち鯖経済で使用するリソースパック",
+    "name": "おうち鯖経済リソースパック",
+    "uuid": "bc2a0bc9-e3a2-4702-9319-d4d3231dfdbc",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 2, 6]
+  },
+  "modules": [
+    {
+      "description": "おうち鯖経済リソースパック",
+      "type": "resources",
+      "uuid": "891f5751-bb0e-47c6-91f0-fdc4e76949ef",
+      "version": [0, 0, 1]
+    }
+  ]
+}
